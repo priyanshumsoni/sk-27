@@ -1,0 +1,8 @@
+
+{
+  "name": "SK-27 GYM - Hauz Khas Village Elite Fitness Sanctuary",
+  "description": "High-performance fitness sanctuary in Hauz Khas Village, New Delhi, featuring luxury imported equipment and elite coaching.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
